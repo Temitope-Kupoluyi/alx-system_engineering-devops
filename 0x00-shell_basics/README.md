@@ -1,1 +1,1 @@
-A symblic link to /bin/ls, named _ls_.
+A script that copies all the HTML files from the working directory to the parent of the working directory
