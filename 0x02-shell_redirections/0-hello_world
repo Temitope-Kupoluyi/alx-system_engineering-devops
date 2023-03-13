@@ -1,2 +1,3 @@
 #!/bin/bash
-touch hello_world | cat -e
+./hello_world | cat -e
+
