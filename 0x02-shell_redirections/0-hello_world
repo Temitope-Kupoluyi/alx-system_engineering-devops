@@ -1,2 +1,2 @@
 #!/bin/bash
-hello_world | cat -e
+ls > file_helloworld.txt
